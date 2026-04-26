@@ -1,6 +1,6 @@
 # piano
 
-**Category:** Reversing | **Difficulty:** Hard (2 solves, 495 pts) | **Flag:** `bctf{b#fqQZ*OEQAZKTDAYyl6VPRomVPRom}`
+**Category:** Reversing | **Difficulty:** Hard | **Flag:** `bctf{b#fqQZ*OEQAZKTDAYyl6VPRomVPRom}`
 
 ## TL;DR
 
