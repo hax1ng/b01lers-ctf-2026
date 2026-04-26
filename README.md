@@ -36,7 +36,7 @@ Flag format: `bctf{...}`
 | Shakespears Revenge | Hard | [rev/shakespears-revenge](rev/shakespears-revenge/) |
 | tiles+ai | Hard | [rev/tiles-ai](rev/tiles-ai/) |
 | Favorite Potato | Medium-Hard | [rev/favorite-potato](rev/favorite-potato/) |
-| Piano | Hard (2 solves) | [rev/piano](rev/piano/) |
+| Piano | Hard | [rev/piano](rev/piano/) |
 | Indirect Memory Access | Hard | [rev/indirect-memory-access](rev/indirect-memory-access/) |
 
 ### Web
