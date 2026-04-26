@@ -1,0 +1,14 @@
+#if 0
+#=
+=pod
+read a;read b;read c;r=1;a=$((a%c));while((b));do((b&1))&&r=$((r*a%c));a=$((a*a%c));b=$((b>>1));done;echo $r;exit
+=cut
+use bigint;print((0+<>)**(0+<>)%(0+<>));__END__
+=#
+a,b,c=parse.(Int,readlines());print(powermod(a,b,c));exit()
+#=
+#endif
+#include<stdio.h>
+int main(){long a,b,c,r=1;scanf("%ld %ld %ld",&a,&b,&c);a%=c;while(b){if(b&1)r=r*a%c;a=a*a%c;b/=2;}printf("%ld\n",r);return 0;}/*
+=#
+*/
